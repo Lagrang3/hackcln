@@ -10,3 +10,5 @@ $(EXAMPLE_OBJS): $(EXAMPLE_SRC)
 example/ex-pipe: example/ex-pipe.o
 
 example/ex-pipe-app: example/ex-pipe-app.o
+
+example/ex-socket: example/ex-socket.o
